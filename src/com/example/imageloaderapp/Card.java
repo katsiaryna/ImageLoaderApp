@@ -6,7 +6,7 @@ public class Card {
 	
 	public final Bitmap  DEFAULT_IMAGE = MainActivity.DEFAULT_IMAGE;
 
-	
+	//kate;
 	
 	public Bitmap mImage;
 	public String mPublishedDate;
