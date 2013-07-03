@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="MyTheme" parent="android:style/Theme.Holo">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:actionBarDivider">@android:drawable/divider_horizontal_bright</item></style>
+</resources>
