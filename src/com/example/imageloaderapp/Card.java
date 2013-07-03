@@ -5,10 +5,6 @@ import android.graphics.Bitmap;
 public class Card {
 	
 	public final Bitmap  DEFAULT_IMAGE = MainActivity.DEFAULT_IMAGE;
-
-	//kate;
-	
-	hvbvnvvbbvbcvcb
 	
 	public Bitmap mImage;
 	public String mPublishedDate;
