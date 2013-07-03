@@ -8,7 +8,7 @@ public class Card {
 
 	//kate;
 	
-	
+	hvbvnvvbbvbcvcb
 	
 	public Bitmap mImage;
 	public String mPublishedDate;
