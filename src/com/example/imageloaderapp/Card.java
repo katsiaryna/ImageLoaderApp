@@ -8,6 +8,8 @@ public class Card {
 
 	//kate;
 	
+	
+	
 	public Bitmap mImage;
 	public String mPublishedDate;
 	public String mAuthor;
